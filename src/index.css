@@ -1,0 +1,9 @@
+@font-face {
+  font-family: RubikMonoOne;
+  src: url(/public/fonts/RubikMonoOne-Regular.ttf);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
